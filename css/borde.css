@@ -1,0 +1,27 @@
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+    
+}
+.color{
+	background: #AFAFAF;
+}
+.color1{
+	background: #DFDFDF;
+}
+
+body{
+	
+       height: 842px;
+        width: 595px;
+        /* to centre page on screen*/
+        margin-left: auto;
+        margin-right: auto;
+
+    width:90%;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px
+
+}
